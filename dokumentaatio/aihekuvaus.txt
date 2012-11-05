@@ -1,0 +1,9 @@
+aihe: Muistipeli
+Toteutetaan muistipeli, ensin tekstimuotoisena ja sitten kuvallisena.
+
+käyttäjät: pelaaja (kuka vaan)
+pelaajan toiminnot:
+    * käynnistä peli
+    * valitse pelilaudan koko (myöhemmin: kuva-aihe, väri tms)
+    * pelaa (klikkaa nurinperin olevia kuvakortteja ja etsi pareja)
+    * laita mahdollinen high score tuloslistaan 

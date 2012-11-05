@@ -1,0 +1,5 @@
+:tuntikirjanpito:
+
+- ma 29.10. klo 14-16 aiheeseen perehtymist‰, githubin s‰‰t‰mist‰, aihe valittu, aihe ja ensimm‰inen tuntikirjaus l‰hetetty mailitse kursivastaaville 
+
+- ma 6.11. klo 2330-0100 githubin s‰‰t‰mist‰, windows-yhteys sill‰ kotikoneelle , yhteydenpitoa kurssivastaavan kanssa, dokumentoinnin ja tuntkirjapidon pushaaminen githubiin
