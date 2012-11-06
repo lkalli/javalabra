@@ -2,4 +2,6 @@
 
 - ma 29.10. klo 14-16 aiheeseen perehtymist‰, githubin s‰‰t‰mist‰, aihe valittu, aihe ja ensimm‰inen tuntikirjaus l‰hetetty mailitse kursivastaaville 
 
-- ma 6.11. klo 2330-0100 githubin s‰‰t‰mist‰, windows-yhteys sill‰ kotikoneelle , yhteydenpitoa kurssivastaavan kanssa, dokumentoinnin ja tuntkirjapidon pushaaminen githubiin
+- ma 5.11. klo 2330-0100 githubin s‰‰t‰mist‰, windows-yhteys sill‰ kotikoneelle , yhteydenpitoa kurssivastaavan kanssa, dokumentoinnin ja tuntkirjapidon pushaaminen githubiin
+
+ti 6.11. 22.30-0100 Netbeansin ja githubin kanssa s‰‰t‰mist‰ - en saa kamoja menem‰‰n Netbeansista oikeaan kansioon. Juuri nyt ne ovat menneet javalabra-repositorion sijaan javalabra_hima -repoon, jonne .gitingoret myˆs ilmestyiv‰t. Koetettu saada kaikki samaan paikkaan. 
