@@ -4,5 +4,7 @@
 
 - ma 5.11. klo 2330-0100 githubin säätämistä, windows-yhteys sillä kotikoneelle , yhteydenpitoa kurssivastaavan kanssa, dokumentoinnin ja tuntkirjapidon pushaaminen githubiin
 
-ti 6.11. 22.30-0200 Netbeansin ja githubin kanssa säätämistä - en saa kamoja menemään Netbeansista oikeaan kansioon. Juuri nyt ne ovat menneet javalabra-repositorion sijaan javalabra_hima -repoon, jonne .gitingoret myös ilmestyivät. 
+ti 6.11. 22.30-0213 Netbeansin ja githubin kanssa säätämistä - en saa kamoja menemään Netbeansista oikeaan kansioon. Juuri nyt ne ovat menneet javalabra-repositorion sijaan javalabra_hima -repoon, jonne .gitingoret myös ilmestyivät. 
 Koetettu turhaan saada kaikki samaan paikkaan. Testiluokka on luotu, mutta sekin meni tuonne javalabra_hima -varastoon. 
+
+02:13 Onnistuin lopulta. 
