@@ -14,6 +14,7 @@ public class HelloWorld {
     }
     public static void main (String[] args) {
         System.out.println("Hei maailma!");
+        System.out.println("Toinen testi tammikuussa");
         //testataan meneekö tää nyt lopulta githubiin
         
         
